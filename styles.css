@@ -75,7 +75,8 @@ ul {
 .placeholder {
   background-color: #6D747D;
   font-size: 20px;
-  padding: 120px;
+  height: 250px;
+  width: 500px;
 
   display: flex;
   justify-content: center;
